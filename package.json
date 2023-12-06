@@ -1,0 +1,39 @@
+{
+  "name": "malinky-malinky",
+  "version": "1.0.0",
+  "description": "Функция \"поиск наибольшего числа в массиве\" - принимает на вход массив чисел, проходит по всем элементам массива и сравнивает их между собой, затем возвращает наибольшее число из массива.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-linkka/malinky-malinky.git"
+  },
+  "keywords": [
+    "наибольшее",
+    "число",
+    "наибольшее",
+    "число",
+    "в",
+    "массиве",
+    "поиск",
+    "наибольшего",
+    "поиск",
+    "максимального",
+    "максимальное",
+    "число",
+    "в",
+    "массиве",
+    "максимально",
+    "число",
+    "массив",
+    "чисел"
+  ],
+  "author": "Alinka Belova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-linkka/malinky-malinky/issues"
+  },
+  "homepage": "https://github.com/a-linkka/malinky-malinky#readme"
+}
